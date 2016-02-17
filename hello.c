@@ -3,6 +3,7 @@
 
 int main() {
   printf("Hello World, take 2!\n");
-  printf("by Thomas Wong\n");
+  printf("by Thomas iOS\n");
+  printf("How about a third line?")
   return 0;
 }

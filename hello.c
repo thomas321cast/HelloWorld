@@ -3,6 +3,10 @@
 
 void function321() {
   printf("321");
+
+void function321ios()
+{
+  printf("321ios");
 }
 
 int main() {
@@ -12,5 +16,7 @@ int main() {
   function321();
 
   // Add some comments here for testing
+  function321ios();
+
   return 0;
 }

@@ -7,7 +7,7 @@ void function321ios()
 }
 
 int main() {
-  printf("Hello World, take 5!\n");
+  printf("Hello World, take 3A!\n");
   printf("by Thomas Wong\n");
   printf("How about a third line?")
 
